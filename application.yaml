@@ -7,5 +7,9 @@ errorPhrases:
       th: นี่คือเออเร่อภาษาไทย
     '200020':
       en: wow another error
-      th: นี่มันอีก error นี่นา
+      th: นี่มันอีก error นี่นา 2
+    '200021':
+      en: asdf
+      th: ฟหกด
+
 
