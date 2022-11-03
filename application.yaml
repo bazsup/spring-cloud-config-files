@@ -1,6 +1,6 @@
 message:
   greeting: Hello Alice
-error_phrases:
+errorPhrases:
   keys:
     '200019':
       en: this is error phrase in english
