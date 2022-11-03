@@ -1,2 +1,11 @@
 message:
   greeting: Hello Alice
+error_phrases:
+  keys:
+    '200019':
+      en: this is error phrase in english
+      th: นี่คือเออเร่อภาษาไทย
+    '200020':
+      en: wow another error
+      th: นี่มันอีก error นี่นา
+
