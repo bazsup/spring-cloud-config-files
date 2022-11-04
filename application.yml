@@ -1,7 +1,4 @@
 {
-  "message": {
-    "greeting": "Hello Alice"
-  },
   "errorPhrases": {
     "keys": {
       "200019": {
