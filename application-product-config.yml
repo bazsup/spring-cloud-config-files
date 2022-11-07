@@ -1,8 +1,11 @@
 {
-  "product-config": {
-    "data": ["temp1"]
-  },
-  "allProductConfig": [
-    "test"
-  ]
+  "product-config":
+    {
+      "data":
+        [
+          { "rsl_product_code": "01", "account_type": "SE" },
+          { "rsl_product_code": "02", "account_type": "SA" },
+        ],
+    },
+  "allProductConfig": ["test"],
 }
