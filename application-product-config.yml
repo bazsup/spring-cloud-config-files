@@ -1,7 +1,7 @@
 {
-  "product-config": [
-    "temp"
-  ],
+  "product-config": {
+    "data": ["temp1"]
+  },
   "allProductConfig": [
     "test"
   ]
