@@ -1,0 +1,12 @@
+{
+  "product-config": [
+    {
+      "rsl_product_code": "01",
+      "account_type": "SE"
+    },
+    {
+      "rsl_product_code": "02",
+      "account_type": "SA"
+    }
+  ]
+}
