@@ -1,7 +1,7 @@
 {
   "product-config":
     {
-      "productconfig":
+      "productConfig":
         [
           { "rsl_product_code": "03", "account_type": "SE" },
           { "rsl_product_code": "02", "account_type": "SA" },
