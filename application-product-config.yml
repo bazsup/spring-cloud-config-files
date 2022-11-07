@@ -1,5 +1,8 @@
 {
   "product-config": [
     "temp"
+  ],
+  "allProductConfig": [
+    "test"
   ]
 }
