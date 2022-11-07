@@ -1,7 +1,8 @@
 {
-  "product-config":
-    [
+  "product-config": {
+    "data": [
       { "rsl_product_code": "04", "account_type": "SE" },
-      { "rsl_product_code": "02", "account_type": "SA" },
-    ],
+      { "rsl_product_code": "02", "account_type": "SA" }   
+    ]
+  }
 }
