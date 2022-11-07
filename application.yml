@@ -1,5 +1,5 @@
 {
-  "wow": "za",
+  "wow": ["za", "55"],
   "errorPhrases": {
     "keys": {
       "200019": {
